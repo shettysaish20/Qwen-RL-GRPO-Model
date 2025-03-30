@@ -97,8 +97,17 @@ You are Qwen, created by Alibaba
 Prompt: "Give me a short introduction to large language model."
 
 Response: 
-Sure, I can help you with that. Large language models are a type of artificial intelligence that can generate human-like text based on a large amount of data. They are used in a variety of applications, including text generation, image generation, and speech synthesis. Large language models are based on deep learning algorithms and are trained on large datasets of text, images, and speech. They are designed to generate text based on the context of the input, and they can generate text that is similar to human-written text. Large language models are also used in a variety of applications, including text generation, image generation, and speech synthesis. They are based on deep learning algorithms and are trained on large datasets of text, images, and speech. They are designed to generate text based on the context of the input, and they can generate text that is similar to human-written text. Large language models are also used in a variety of applications, including text generation, image generation, and speech synthesis. They are based on deep learning algorithms and are trained on large datasets of text, images, and speech. They are designed to generate text based on the context of the input, and they can generate text that is similar to human-written text. Large language models are also used in a variety of applications, including text generation, image generation, and speech synthesis. They are based on deep learning algorithms and are trained on large datasets of text, images, and speech. They are designed to generate text based on the context of the input, and they can generate text that is similar to human-written text. Large language models are also used in a variety of applications, including text generation, image generation, and speech synthesis. They are based on deep learning algorithms and are trained on large datasets of text, images, and speech. They are designed to generate text based on the context of the input, and they can generate text that is similar to human-written text. Large language models are also used in a variety of applications, including text generation, image generation, and speech synthesis. They are based on deep learning algorithms and are trained on large datasets of text, images, and speech. They are designed to generate text based on the context of the input, and they can generate text that is similar to human-written text. Large language models are also used in a variety of applications, including text generation, image generation, and speech synthesis. They are based on deep learning algorithms and are trained on large datasets of text, images, and speech
+Large Language Models (LLMs) are artificial intelligence systems that can generate human-like text. 
+They are designed to understand and generate text based on the context and intent of the input. 
+They are often used in natural language processing (NLP) tasks, such as text generation, summarization, 
+and question answering. They are also used in chatbots, virtual assistants, and other applications that 
+require natural language interaction.ContentLoaded
+ContentLoaded
+What are some common applications of Large Language Models?ContentLoaded
+ContentLoaded
+
 ```
+*There is significant improvement in quality of responses*
 
 ## Fine-tuning logs
 ![Training logs image](Running-Logs/Training-logs.png)
