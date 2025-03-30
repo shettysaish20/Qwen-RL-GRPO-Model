@@ -101,7 +101,7 @@ Sure, I can help you with that. Large language models are a type of artificial i
 ```
 
 ## Fine-tuning logs
-![Training logs image](Running-Logs\Training-logs.png)
+![Training logs image](Running-Logs/Training-logs.png)
 ```Python
 TrainOutput(global_step=500, training_loss=0.1072041506767273, metrics={'train_runtime': 49838.0008, 'train_samples_per_second': 0.161, 'train_steps_per_second': 0.01, 'total_flos': 0.0, 'train_loss': 0.1072041506767273})
 ```
@@ -110,13 +110,13 @@ TrainOutput(global_step=500, training_loss=0.1072041506767273, metrics={'train_r
 
 Wandb Run Tracking link: [Link](https://wandb.ai/shettysaish20-bajaj-finserv-health/huggingface/runs/uyqtoy8c?nw=nwusershettysaish20)
 
-![Profiling-logs](Running-Logs\Profiling-logs.png)
+![Profiling-logs](Running-Logs/Profiling-logs.png)
 *Wandb - Profiling Logs*
 
-![Training-logs](Running-Logs\training-wandb-logs.png)
+![Training-logs](Running-Logs/training-wandb-logs.png)
 *Wandb - Training Logs*
 
-![System-logs](Running-Logs\System-logs.png)
+![System-logs](Running-Logs/System-logs.png)
 *Wandb - System Logs*
 
 ## Demo
@@ -159,4 +159,4 @@ python app.py
 
 Link: [Qwen 2.5 GRPO RL Demo](https://huggingface.co/spaces/saish-shetty/Qwen-2.5-0.5B-GRPO-RL-Demo)
 
-![In working screenshot](Running-Logs\HF_Spaces_SS.png)
+![In working screenshot](Running-Logs/HF_Spaces_SS.png)
